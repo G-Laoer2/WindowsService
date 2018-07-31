@@ -1,0 +1,8 @@
+D:\Windows服务\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe.config
+D:\Windows服务\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe
+D:\Windows服务\ServiceTest\ServiceTest\bin\Debug\ServiceTest.pdb
+D:\Windows服务\ServiceTest\ServiceTest\obj\Debug\ServiceTest.MyService.resources
+D:\Windows服务\ServiceTest\ServiceTest\obj\Debug\ServiceTest.ProjectInstaller.resources
+D:\Windows服务\ServiceTest\ServiceTest\obj\Debug\ServiceTest.csproj.GenerateResource.Cache
+D:\Windows服务\ServiceTest\ServiceTest\obj\Debug\ServiceTest.exe
+D:\Windows服务\ServiceTest\ServiceTest\obj\Debug\ServiceTest.pdb
